@@ -1,0 +1,26 @@
+{
+  "name": "mydemo",
+  "homepage": "https://github.com/mkxzy/mydemo",
+  "authors": [
+    "xiezhiyan <1715380210@qq.com>"
+  ],
+  "description": "no",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "^2.5.0",
+    "angular-route": "^1.6.5",
+    "angular-resource": "^1.6.5",
+    "angular": "^1.6.5",
+    "bootstrap-css-only": "^3.3.7",
+    "ng-sortable": "^1.3.8"
+  }
+}
